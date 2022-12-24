@@ -1,0 +1,1 @@
+A simple Discord bot designed to help with scheduling events
